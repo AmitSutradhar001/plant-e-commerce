@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Areca Palm",
+    "slug": "areca-palm",
+    "category": "Jungle Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Air‑purifying tropical palm",
+    "description": "Areca Palm is a lush, beautiful indoor plant known for its air purifying properties.",
+    "stock": 25,
+    "price": 499,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.5,
+    "numReviews": 120
+  },
+  {
+    "name": "Snake Plant",
+    "slug": "snake-plant",
+    "category": "Bedroom Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Low‑maintenance skyward leaves",
+    "description": "Snake Plant is a low maintenance indoor plant with sharp upright leaves.",
+    "stock": 30,
+    "price": 299,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.7,
+    "numReviews": 200
+  },
+  {
+    "name": "Peace Lily",
+    "slug": "peace-lily",
+    "category": "Bedroom Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Elegant white blooms",
+    "description": "Peace Lilies are graceful plants with white blooms and glossy leaves.",
+    "stock": 15,
+    "price": 699,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.6,
+    "numReviews": 145
+  },
+  {
+    "name": "Bamboo Plant",
+    "slug": "bamboo-plant",
+    "category": "Indoor Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Lucky bamboo stalks",
+    "description": "Lucky Bamboo is a symbol of good fortune and a great indoor décor item.",
+    "stock": 40,
+    "price": 199,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.2,
+    "numReviews": 75
+  },
+  {
+    "name": "Aloe Vera",
+    "slug": "aloe-vera",
+    "category": "Outdoor Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Healing succulent",
+    "description": "Aloe Vera is a healing plant often used for skin care and burns.",
+    "stock": 22,
+    "price": 249,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.4,
+    "numReviews": 95
+  },
+  {
+    "name": "Money Plant",
+    "slug": "money-plant",
+    "category": "Indoor Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Wealth‑attracting vine",
+    "description": "Money Plants are popular for indoor spaces and believed to bring wealth.",
+    "stock": 50,
+    "price": 149,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.1,
+    "numReviews": 160
+  },
+  {
+    "name": "ZZ Plant",
+    "slug": "zz-plant",
+    "category": "Bedroom Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Tough low‑light survivor",
+    "description": "ZZ Plant thrives in low light and needs very little watering.",
+    "stock": 18,
+    "price": 549,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.5,
+    "numReviews": 85
+  },
+  {
+    "name": "Jade Plant",
+    "slug": "jade-plant",
+    "category": "Outdoor Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Prosperity succulent",
+    "description": "Jade Plant is a beautiful succulent known for its thick leaves and symbolism of prosperity.",
+    "stock": 33,
+    "price": 379,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.3,
+    "numReviews": 110
+  },
+  {
+    "name": "Tulsi (Holy Basil)",
+    "slug": "tulsi",
+    "category": "Outdoor Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Sacred medicinal herb",
+    "description": "Tulsi is revered in Indian homes for its medicinal and spiritual benefits.",
+    "stock": 27,
+    "price": 199,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.8,
+    "numReviews": 300
+  },
+  {
+    "name": "Boston Fern",
+    "slug": "boston-fern",
+    "category": "Jungle Plants",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/048/343/317/non_2x/cartoon-plant-logo-in-a-pot-with-a-happy-face-png.png"
+    ],
+    "banner": "Air‑cleaning lush fern",
+    "description": "Boston Ferns are vibrant, air-purifying ferns ideal for shady spots.",
+    "stock": 20,
+    "price": 299,
+    "discount": 0,
+    "shippingPrice": 0,
+    "rating": 4.4,
+    "numReviews": 90
+  }
+]
