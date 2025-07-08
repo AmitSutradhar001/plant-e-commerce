@@ -10,13 +10,13 @@ const blogPosts = [
     title: "How to water your freaking plants so they don't die after one week",
     author: "Mellissa Bail",
     edition: "Edition 291",
-    image: "/images/blog/image1.png",
+    image: "/images/blog/Image1.png",
   },
   {
     title: "How to repot a Monstera without killing it and foster its growth",
     author: "Jesse Rowe",
     edition: "Edition 292",
-    image: "/images/blog/image2.png",
+    image: "/images/blog/Image2.png",
   },
 ];
 

@@ -10,19 +10,19 @@ const products = [
   {
     name: "Plant 1",
     price: "150€",
-    image: "/images/featured/image1.png",
+    image: "/images/featured/Image1.png",
     soldOut: false,
   },
   {
     name: "Plant 2",
     price: "70€",
-    image: "/images/featured/image2.png",
+    image: "/images/featured/Image2.png",
     soldOut: false,
   },
   {
     name: "Plant 3",
     price: "50€",
-    image: "/images/featured/image3.png",
+    image: "/images/featured/Image3.png",
     soldOut: true,
   },
 ];

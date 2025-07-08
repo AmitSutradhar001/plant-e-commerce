@@ -8,10 +8,10 @@ import Link from "next/link";
 
 const CategooriesGrid = () => {
   const categories = [
-    { title: "Jungle Plants", image: "/images/categories/image1.png" },
-    { title: "Outdoor Plants", image: "/images/categories/image2.png" },
-    { title: "Bedroom Plants", image: "/images/categories/image3.png" },
-    { title: "Indoor Plants", image: "/images/categories/image4.png" },
+    { title: "Jungle Plants", image: "/images/categories/Image1.png" },
+    { title: "Outdoor Plants", image: "/images/categories/Image2.png" },
+    { title: "Bedroom Plants", image: "/images/categories/Image3.png" },
+    { title: "Indoor Plants", image: "/images/categories/Image4.png" },
   ];
   const [ref, inView] = useInView({ triggerOnce: true, threshold: 0.2 });
   const controls = useAnimation();
