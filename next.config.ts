@@ -14,8 +14,8 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "static.vecteezy.com",
-        pathname: "/**",
+        hostname: "res.cloudinary.com",
+        pathname: "/dzely4n74/**",
       },
     ],
   },
